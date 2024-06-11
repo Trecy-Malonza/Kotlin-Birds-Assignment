@@ -28,7 +28,7 @@ class ThirdBirdActivity : AppCompatActivity() {
         }
         Picasso.get()
             .load("https://images.unsplash.com/photo-1520552159191-e28a1d9f0d7e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D")
-            .into(binding.imageView)
+            .into(binding.imageView4)
     }
 }
 
